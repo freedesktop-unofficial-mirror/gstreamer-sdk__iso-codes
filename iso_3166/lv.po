@@ -7,21 +7,21 @@
 # Aigars Mahinovs <aigarius@debian.org>, 2006.
 # Rihards Priedītis <rprieditis@gmail.com>, 2009.
 # Rūdolfs Mazurs <rudolfs.mazurs@gmail.com>, 2011.
-# Rūdofls Mazurs <rudolfs.mazurs@gmail.com>, 2011.
+# Rūdofls Mazurs <rudolfs.mazurs@gmail.com>, 2011, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: iso_3166\n"
 "Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
 "debian.org>\n"
-"POT-Creation-Date: 2011-11-13 09:05+0100\n"
-"PO-Revision-Date: 2011-09-02 04:47+0300\n"
-"Last-Translator: Rihards Priedītis <rprieditis@gmail.com>\n"
+"POT-Creation-Date: 2012-03-03 15:40+0100\n"
+"PO-Revision-Date: 2012-05-05 19:06-0000\n"
+"Last-Translator: Rihards Prieditis <rprieditis@gmail.com>\n"
 "Language-Team: Latvian <translation-team-lv@lists.sourceforge.net>\n"
 "Language: lv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 1.1\n"
+"X-Generator: Lokalize 1.4\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : "
 "2);\n"
 
@@ -669,13 +669,9 @@ msgstr "Honkonga"
 msgid "Hong Kong Special Administrative Region of China"
 msgstr "Honkongas Īpašais Administratīvais Reģions"
 
-#. name for HUN
+#. name for HUN, official_name for HUN
 msgid "Hungary"
 msgstr "Ungārija"
-
-#. official_name for HUN
-msgid "Republic of Hungary"
-msgstr "Ungārijas Republika"
 
 #. name for ISL
 msgid "Iceland"
@@ -1230,7 +1226,7 @@ msgid "State of Qatar"
 msgstr "Kataras Valsts"
 
 #. name for REU
-msgid "Reunion"
+msgid "Réunion"
 msgstr "Reinjona"
 
 #. name for ROU
@@ -1426,14 +1422,12 @@ msgid "Republic of Suriname"
 msgstr "Surinamas Republika"
 
 #. name for SSD
-#, fuzzy
 msgid "South Sudan"
-msgstr "Sudāna"
+msgstr "Dienvidsudāna"
 
 #. official_name for SSD
-#, fuzzy
 msgid "Republic of South Sudan"
-msgstr "Sudānas Republika"
+msgstr "Dienvidsudānas republika"
 
 #. name for SJM
 msgid "Svalbard and Jan Mayen"

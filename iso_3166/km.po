@@ -1,8 +1,6 @@
 # translation of iso-codes_iso_3166_km.po to Khmer
 # Translation of ISO-3166 (country names) to Khmer
-#
 # This file is distributed under the same license as the iso-codes package.
-#
 #   eng vannak <evannak@khmeros.info>, 2006.
 #   auk piseth <piseth_dv@khmeros.info>, 2006.
 #   Khoem Sokhem <khoemsokhem@khmeros.info>, 2006, 2010.
@@ -12,7 +10,7 @@ msgstr ""
 "Project-Id-Version: iso_3166\n"
 "Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
 "debian.org>\n"
-"POT-Creation-Date: 2011-11-13 09:05+0100\n"
+"POT-Creation-Date: 2012-03-03 15:40+0100\n"
 "PO-Revision-Date: 2010-06-16 14:55+0700\n"
 "Last-Translator: Khoem Sokhem <khoemsokhem@khmeros.info>\n"
 "Language-Team: Khmer <support@khmeros.info>\n"
@@ -21,6 +19,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.11.4\n"
+"X-Language: km-KH\n"
 
 #. name for AFG
 msgid "Afghanistan"
@@ -204,7 +203,7 @@ msgstr "បូលីវី"
 
 #. name for BES, official_name for BES
 msgid "Bonaire, Sint Eustatius and Saba"
-msgstr ""
+msgstr "បូស្នី ស៊ីន អ៊ីស្តាំធូស និង​សាបា"
 
 #. name for BIH
 msgid "Bosnia and Herzegovina"
@@ -396,7 +395,7 @@ msgstr "សាធារណរដ្ឋ​គុយបា"
 
 #. name for CUW, official_name for CUW
 msgid "Curaçao"
-msgstr ""
+msgstr "Curaçao"
 
 #. name for CYP
 msgid "Cyprus"
@@ -503,9 +502,8 @@ msgid "Fiji"
 msgstr "ហ្វីហ្ស៊ី"
 
 #. official_name for FJI
-#, fuzzy
 msgid "Republic of Fiji"
-msgstr "សាធារណរដ្ឋ​ហៃទី​"
+msgstr "សាធារណរដ្ឋ​​ហ្វីជី"
 
 #. name for FIN
 msgid "Finland"
@@ -667,13 +665,9 @@ msgstr "ហុងកុង"
 msgid "Hong Kong Special Administrative Region of China"
 msgstr "ហុងកុង​តំបន់​ត្រួតត្រា​ពិសេស​របស់​ចិន"
 
-#. name for HUN
+#. name for HUN, official_name for HUN
 msgid "Hungary"
 msgstr "ហុងគ្រី"
-
-#. official_name for HUN
-msgid "Republic of Hungary"
-msgstr "សាធារណរដ្ឋ​ហុងគ្រី"
 
 #. name for ISL
 msgid "Iceland"
@@ -1036,9 +1030,8 @@ msgid "Myanmar"
 msgstr "មីយ៉ាន់ម៉ា"
 
 #. official_name for MMR
-#, fuzzy
 msgid "Republic of Myanmar"
-msgstr "សាធារណរដ្ឋ​ហ្គីយ៉ាណា​"
+msgstr "សាធារណរដ្ឋ​មីយ៉ាន់ម៉ា"
 
 #. name for NAM
 msgid "Namibia"
@@ -1229,7 +1222,7 @@ msgid "State of Qatar"
 msgstr "រដ្ឋ​កាតារ"
 
 #. name for REU
-msgid "Reunion"
+msgid "Réunion"
 msgstr "រេអុយញ៉ុង"
 
 #. name for ROU
@@ -1349,9 +1342,8 @@ msgid "Republic of Singapore"
 msgstr "សាធារណរដ្ឋ​សាំងហ្គាពួរ"
 
 #. name for SXM, official_name for SXM
-#, fuzzy
 msgid "Sint Maarten (Dutch part)"
-msgstr "សាន​ម៉ាទីន (ផ្នែក​របស់​បារាំង)"
+msgstr "សាន​ម៉ាទីន (ផ្នែក​របស់ហុល្លង់)"
 
 #. name for SVK
 msgid "Slovakia"
@@ -1426,14 +1418,12 @@ msgid "Republic of Suriname"
 msgstr "សាធារណរដ្ឋ​ស៊ូរីណាមី"
 
 #. name for SSD
-#, fuzzy
 msgid "South Sudan"
-msgstr "សាធារណរដ្ឋ​ស៊ូដង់"
+msgstr "ស៊ូដង់​ខាង​ត្បូង"
 
 #. official_name for SSD
-#, fuzzy
 msgid "Republic of South Sudan"
-msgstr "សាធារណរដ្ឋ​ស៊ូដង់"
+msgstr "សាធារណរដ្ឋ​ស៊ូដង់​ខាង​ត្បូង"
 
 #. name for SJM
 msgid "Svalbard and Jan Mayen"

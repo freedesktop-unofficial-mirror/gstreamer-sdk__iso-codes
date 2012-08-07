@@ -10,24 +10,24 @@
 #   Free Software Foundation, Inc., 2002,2003.
 #   Alastair McKinstry <mckinstry@computer.org>, 2002.
 #   - Meni Livne <livne@kde.org>, 2000.
-#   Lior Kaplan <kaplan@debian.org>, 2005,2006, 2007, 2008.
 #   Meital Bourvine <meitalbourvine@gmail.com>, 2007.
-# Lior Kaplan <kaplan@debian.org>, 2010, 2011.
+#   Lior Kaplan <kaplan@debian.org>, 2005,2006, 2007, 2008, 2010, 2011, 2012.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: he\n"
 "Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
 "debian.org>\n"
-"POT-Creation-Date: 2011-11-13 09:05+0100\n"
-"PO-Revision-Date: 2011-06-18 13:47+0300\n"
+"POT-Creation-Date: 2012-03-03 15:40+0100\n"
+"PO-Revision-Date: 2012-01-21 00:00+0200\n"
 "Last-Translator: Lior Kaplan <kaplan@debian.org>\n"
-"Language-Team: Hebrew <debian-hebrew-common@lists.alioth.debian.org>\n"
+"Language-Team: Hebrew <>\n"
 "Language: he\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. name for AFG
 msgid "Afghanistan"
@@ -673,13 +673,9 @@ msgstr "הונג קונג"
 msgid "Hong Kong Special Administrative Region of China"
 msgstr "האיזור המנהלי הונג קונג של סין"
 
-#. name for HUN
+#. name for HUN, official_name for HUN
 msgid "Hungary"
 msgstr "הונגריה"
-
-#. official_name for HUN
-msgid "Republic of Hungary"
-msgstr "הרפובליקה של הונגריה"
 
 #. name for ISL
 msgid "Iceland"
@@ -1234,7 +1230,7 @@ msgid "State of Qatar"
 msgstr "קטר"
 
 #. name for REU
-msgid "Reunion"
+msgid "Réunion"
 msgstr "ראוניון"
 
 #. name for ROU
@@ -1430,14 +1426,12 @@ msgid "Republic of Suriname"
 msgstr "הרפובליקה של סורינאם"
 
 #. name for SSD
-#, fuzzy
 msgid "South Sudan"
-msgstr "הרפובליקה של סודן"
+msgstr "דרום סודן"
 
 #. official_name for SSD
-#, fuzzy
 msgid "Republic of South Sudan"
-msgstr "הרפובליקה של סודן"
+msgstr "הרפובליקה של דרום סודן"
 
 #. name for SJM
 msgid "Svalbard and Jan Mayen"

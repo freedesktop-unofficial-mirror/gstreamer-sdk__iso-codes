@@ -15,7 +15,7 @@ msgstr ""
 "Project-Id-Version: iso_3166\n"
 "Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
 "debian.org>\n"
-"POT-Creation-Date: 2011-11-13 09:05+0100\n"
+"POT-Creation-Date: 2012-03-03 15:40+0100\n"
 "PO-Revision-Date: 2007-11-17 11:40+0200\n"
 "Last-Translator: Friedel Wolff <friedel@translate.org.za>\n"
 "Language-Team: Afrikaans <translate-discuss-af@lists.sourceforge.net>\n"
@@ -673,13 +673,9 @@ msgstr "Hong Kong"
 msgid "Hong Kong Special Administrative Region of China"
 msgstr ""
 
-#. name for HUN
+#. name for HUN, official_name for HUN
 msgid "Hungary"
 msgstr "Hongarye"
-
-#. official_name for HUN
-msgid "Republic of Hungary"
-msgstr "Republiek van Hongarye"
 
 #. name for ISL
 msgid "Iceland"
@@ -855,9 +851,8 @@ msgid "Republic of Liberia"
 msgstr "Republiek van Liberië"
 
 #. name for LBY, official_name for LBY
-#, fuzzy
 msgid "Libya"
-msgstr "Liberië"
+msgstr ""
 
 #. name for LIE
 msgid "Liechtenstein"
@@ -992,9 +987,8 @@ msgid "Federated States of Micronesia"
 msgstr "Mikronesië"
 
 #. name for MDA
-#, fuzzy
 msgid "Moldova, Republic of"
-msgstr "Masedonië"
+msgstr ""
 
 #. official_name for MDA
 msgid "Republic of Moldova"
@@ -1002,7 +996,7 @@ msgstr "Republiek van Moldawië"
 
 #. common_name for MDA
 msgid "Moldova"
-msgstr ""
+msgstr "Moldawië"
 
 #. name for MCO
 msgid "Monaco"
@@ -1239,7 +1233,7 @@ msgid "State of Qatar"
 msgstr "Staat van Katar"
 
 #. name for REU
-msgid "Reunion"
+msgid "Réunion"
 msgstr "Réunion"
 
 #. name for ROU
@@ -1438,7 +1432,7 @@ msgstr "Republiek van Suriname"
 #. name for SSD
 #, fuzzy
 msgid "South Sudan"
-msgstr "Republiek van Soedan"
+msgstr "Soedan"
 
 #. official_name for SSD
 #, fuzzy
@@ -1634,8 +1628,9 @@ msgid "Republic of Vanuatu"
 msgstr "Republiek van Vanuatu"
 
 #. name for VEN
+#, fuzzy
 msgid "Venezuela, Bolivarian Republic of"
-msgstr ""
+msgstr "Iran"
 
 #. official_name for VEN
 msgid "Bolivarian Republic of Venezuela"

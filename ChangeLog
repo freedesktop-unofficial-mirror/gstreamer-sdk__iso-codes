@@ -1,3 +1,227 @@
+iso-codes 3.37
+--------------
+Tobias Quathamer <toddy@debian.org>
+Fri, 29 Jun 2012
+
+  [ ISO 639-3 ]
+  * Use new tabular file from sil.org and add three more fields
+    to the XML file to provide more information
+
+  [ ISO 3166 translations ]
+  * Welsh by Daffyd Tomos
+  * Galician by Jorge Barreiro (TP)
+  * Croatian by Tomislav Krznar (TP)
+
+  [ ISO 3166-2 translations ]
+  * Ukrainian by Yuri Chornoivan (TP)
+  * Polish by Jakub Bogusz (TP)
+  * Italian by Milo Casagrande (TP)
+  * Walloon by Pablo Saratxaga (TP)
+
+  [ ISO 639 translations ]
+  * Walloon by Pablo Saratxaga (TP)
+
+  [ ISO 639-3 translations ]
+  * Croatian by Tomislav Krznar (TP)
+
+  [ ISO 15924 translations ]
+  * Indonesian by Andhika Padmawan (TP)
+
+
+iso-codes 3.36
+--------------
+Tobias Quathamer <toddy@debian.org>
+Tue, 5 Jun 2012
+
+  [ ISO 3166-2 ]
+  * Fix numeric code of Sint Maarten. Thanks to
+    Dennis Straffin.
+
+  [ ISO 3166-2 ]
+  * Fix typos in names for BE-WAL and PS-NBS. Thanks
+    to Yuri Chornoivan for spotting them
+    Closes: alioth#313619
+
+  [ ISO 3166 translations ]
+  * Basque by Piarres Beobide
+  * Finnish by Timo Jyrinki. Closes: #673956
+  * Dutch by Freek de Kruijf (TP)
+  * Latvian by Rihards Prieditis (TP)
+  * Basque by Piarres Beobide. Closes: #671888
+  * Lithuanian by Rimas Kudelis. Closes:  #675875
+  * Welsh by Daffyd Tomos
+
+  [ ISO 15924 translations ]
+  * Dutch by Freek de Kruijf (TP)
+  * Latvian by Rihards Prieditis (TP)
+  * Danish by Joe Hansen (TP)
+
+  [ ISO 639-3 translations ]
+  * Ukrainian by Yuri Chornoivan (TP)
+  * Greek by Savvas Radevic (TP)
+  * Italian by Milo Casagrande (TP)
+
+  [ ISO 3166-2 translations ]
+  * Dutch by Freek de Kruijf (TP)
+  * Ukrainian by Yuri Chornoivan (TP)
+  * Polish by Jakub Bogusz (TP)
+  * Italian by Milo Casagrande (TP)
+
+
+iso-codes 3.35
+--------------
+Tobias Quathamer <toddy@debian.org>
+Tue, 1 May 2012
+
+  [ ISO 3166-2 ]
+  * Update ISO-3166-2 after publication of ISO-3166 maintenance agency
+    Newsletter II-3 dated 2011-12-13:
+    - changes in Latvia subdivisions.
+      Closes: alioth#313599
+    - correct code for "São Lourenço dos Órgãos".
+      Closes: alioth#313598
+    - Thanks to Daniel Atallah for pointing this.
+    - many other changes to many other countries...:-)
+
+  [ ISO 3166-2 translations ]
+  * French by Christian Perrier
+
+  [ ISO 3166 translations ]
+  * Asturian by ivarela
+  * Khmer by Khoem Sokhem
+  * Traditional Chinese by Wei-Lun Chao
+  * Marathi by Sampada Nakhare
+  * Belarusian by Ihar Hrachyshka (TP)
+  * Esperanto by Edmund GRIMLEY EVANS (TP)
+  * Croatian by Tomislav Krznar (TP)
+  * Chinese (traditional) by Wei-Lun Chao (TP)
+  * Slovenian by Primož Peterlin (TP)
+
+  [ ISO 639-3 ]
+  * Update to 2012-02-28
+
+  [ ISO 639-3 translations ]
+  * French by Christian Perrier
+  * German by Daniel Schury
+
+  [ ISO 639 translations ]
+  * Croatian by Tomislav Krznar (TP)
+
+
+iso-codes 3.34
+--------------
+Tobias Quathamer <toddy@debian.org>
+Wed, 4 April 2012
+
+  [ ISO 3166 ]
+  * Update ISO-3166 after publication of ISO-3166 maintenance agency
+    Newsletter VI-12 dated 2012-02-15:
+  * Change English full name of Hungary to..."Hungary"
+
+  [ ISO 3166 translations ]
+  * Swedish translation by Martin Bagge
+    Closes: #662245
+  * Catalan translation from TP
+  * Norwegian Bokmål translation from TP
+  * Vietnamese updated by Hoang Nguyen
+  * Gujarati updated by Kartik Mistry. Closes: #663543
+  * Norwegian Bokmaal by Hans Fredrik Nordhaug (TP)
+  * Russian by Yuri Kozlov (TP)
+  * Korean by Changwoo Ryu (TP)
+  * Catalan by Toni Hermoso Pulido (TP)
+  * Italian by Milo Casagrande (TP)
+  * Polish by Jakub Bogusz (TP)
+  * Ukrainian by Yuri Chornoivan (TP)
+
+  [ ISO 15924 translations ]
+  * German by Hendrik Knackstedt
+  * Russian by Yuri Kozlov (TP)
+  * Italian by Milo Casagrande (TP)
+  * Polish by Jakub Bogusz (TP)
+  * Ukrainian by Yuri Chornoivan (TP)
+
+  [ ISO 639-3 translations ]
+  * Greek by Savvas Radevic (TP)
+  * Asturian by ivarela (TP)
+  * Italian by Milo Casagrande (TP)
+  * Bulgarian by Roumen Petrov (TP)
+  * Ukrainian by Yuri Chornoivan (TP)
+
+  [ ISO 639 translations ]
+  * Bulgarian by Roumen Petrov (TP)
+
+  [ ISO 3166-2 translations ]
+  * German by Hendrik Knackstedt (TP)
+
+
+iso-codes 3.33
+--------------
+Tobias Quathamer <toddy@debian.org>
+Thu, 1 March 2012
+
+  [ ISO 15924 ]
+  * Update ISO-15924 as of 2012-02-06 changes
+
+  [ ISO 639-3 ]
+  * Update to 2012-02-06
+
+  [ ISO 3166 ]
+  * Add accent in "Réunion". Unfuzzy translations.
+    Closes: alioth#313537
+
+  [ ISO 15924 translations ]
+  * French by Christian Perrier
+
+  [ ISO 639-3 translations ]
+  * French by Christian Perrier
+
+
+iso-codes 3.32.2
+----------------
+Tobias Quathamer <toddy@debian.org>
+Tue, 7 February 2012
+
+  [ All translations ]
+  * Fix and normalize "Plural-Forms:" formula, because wrong or
+    missing formulas can lead to errors in programs which rely on
+    correct formulas. Closes: #658940
+
+
+iso-codes 3.32.1
+----------------
+Tobias Quathamer <toddy@debian.org>
+Thu, 2 February 2012
+
+  [ ISO 639 translations ]
+  * Greek translation of Modern Greek fixed to "Ελληνικά"
+    LP: #312565. Closes: #517262
+  * Icelandic by Sveinn í Felli (TP)
+
+  [ ISO 3166-2 translations ]
+  * Greek translation of Modern Greek fixed to "Ελληνικά"
+    LP: #312565. Closes: #517262
+  * Indonesian translation by Andhika Padmawan (TP)
+  * German by Hendrik Knackstedt (TP)
+
+  [ ISO 3166 translations ]
+  * Turkish by Atila KOÇ. Closes: #656892
+  * Danish translation by Robert Jørgensgaard Engdahl.
+  * Bulgarian translation by Damyan Ivanov (TP)
+  * Afrikaans translation by Friedel Wolff (TP)
+  * Hebrew translation by Lior Kaplan
+  * Indonesian translation by Andhika Padmawan (TP)
+  * Icelandic by Sveinn í Felli (TP)
+  * Serbian by Aleksandar Jelenak (TP)
+  * Belarusian by Ihar Hrachyshka (TP)
+
+  [ ISO 4217 translations ]
+  * Indonesian translation by Andhika Padmawan (TP)
+  * Serbian by Aleksandar Jelenak (TP)
+
+  [ ISO 639-3 translations ]
+  * Galician by Francisco Diéguez (TP)
+
+
 iso-codes 3.32
 --------------
 Tobias Quathamer <toddy@debian.org>
@@ -269,7 +493,7 @@ Thu, 7 July 2011
 
   [ ISO 15924 ]
   * Update ISO-15924 as of 2011-06-21 changes
-	
+
   [ ISO 15924 translations ]
   * French by Christian Perrier.
 
@@ -1582,7 +1806,7 @@ Thu, 28 August 2008
 
   [ ISO-639-3 translations ]
   * French updated by Christian Perrier
-  * Simplified Chinese by LI Daobing	
+  * Simplified Chinese by LI Daobing
 
   [ ISO-639 translations ]
   * Dutch updated by Freek de Kruijf (TP)
@@ -1899,7 +2123,7 @@ Thu, 7 February 2008
   * Polish by Andrzej M. Krzysztofowicz (TP)
   * Serbian by Danilo Segan (TP)
   * Vietnamese by Clytie Siddall (TP)
-  * Dutch by Freek de Kruijf (TP)	
+  * Dutch by Freek de Kruijf (TP)
   * Esperanto by Edmund GRIMLEY EVANS (TP)
   * Simplified Chinese by LI Daobing (TP)
   * Remove files which have only very few translations (from
@@ -1920,7 +2144,7 @@ Thu, 7 February 2008
   [ ISO-3166-2 translations ]
   * Slovak by Ivan Masár (TP)
   * Vietnamese by Clytie Siddall (TP)
-  * Dutch by Freek de Kruijf (TP)	
+  * Dutch by Freek de Kruijf (TP)
   * Remove files which have only very few translations (from
     ICU libraries) and have not been updated for a long time:
     af.po, ar.po, br.po, et.po, fa.po, fi.po, gl.po, he.po,
@@ -1968,18 +2192,18 @@ Mon, 7 January 2008
   [ ISO-639 translations ]
   * Esperanto by Edmund GRIMLEY EVANS (TP)
   * French by Christian Perrier
-  * Dutch by Freek de Kruijf (TP)	
-  * Simplified Chinese by LI Daobing (TP)	
+  * Dutch by Freek de Kruijf (TP)
+  * Simplified Chinese by LI Daobing (TP)
   * Russian by Yuri Kozlov
 
   [ ISO-4217 translations ]
   * Vietnamese by Clytie Siddall (TP)
-  * Dutch by Freek de Kruijf (TP)	
-  * Simplified Chinese by LI Daobing (TP)	
+  * Dutch by Freek de Kruijf (TP)
+  * Simplified Chinese by LI Daobing (TP)
 
   [ ISO-15924 translations ]
-  * Esperanto by Edmund GRIMLEY EVANS (TP)	
-  * Dutch by Freek de Kruijf (TP)	
+  * Esperanto by Edmund GRIMLEY EVANS (TP)
+  * Dutch by Freek de Kruijf (TP)
   * Russian by Yuri Kozlov
 
   [ ISO-3166-2 translations ]
@@ -2029,7 +2253,7 @@ Fri, 21 December 2007
     SVC: El Salvador Colon
     UYI: Uruguay Peso en Unidades Indexadas
     VEF: Bolivar Fuerte (Closes: #440653)
-	
+
   [ ISO-15924 ]
   * Added 2007-11-26: Armi, Cakm, Kthi, Phli, Phlv, Prti, Tavt, Zmth, Zsym
   * Changed 2007-11-26: Lana
@@ -2318,7 +2542,7 @@ Thu,  4 October 2007
   * Polish (pl) updated by Andrzej M. Krzysztofowicz via TP
   * Wallon (wa) updated by Pablo Saratxaga via TP
   * Simplified Chinese (zh_CN) updated by LI Daobing via TP
-  
+
   [ ISO-3166-2 translations ]
   * Dutch (nl) updated by Freek de Kruijf via TP
   * Simplified Chinese (zh_CN) updated by LI Daobing via TP
@@ -3015,13 +3239,13 @@ Fri, 10 Mar 2006
   * iso_4217:
     - sl.po updated by  Primož Peterlin.
     - et.po updated by  Ain Vagula.
-  
+
   [ Tobias Toedter ]
   * iso_639:
     - Added new entry for "Ainu". Thanks to Christian Perrier.
       Closes: #325273
     - fr updated by Christian Perrier
-  
+
   [ Alastair McKinstry ]
   * Changed COPYING to LGPL-2.1; License is LGPL as described in
     debian/copyright and alioth, etc.
@@ -3051,7 +3275,7 @@ Fri, 10 Mar 2006
     - nl further update by Luk Claes
     - eo further cleanup by  Edmund Grimley Evans.
     - ga updated by Kevin Patrick Scannell.
-    - vi further updated by Clytie Siddall. 
+    - vi further updated by Clytie Siddall.
   * iso_4217:
     - vi updated by Clytie Siddall.
   * iso_3166:
@@ -3080,7 +3304,7 @@ Fri, 10 Mar 2006
   * iso_629:
     - Portuguese translation correction thanks to  Guilherme de S. Pastore.
       Closes: #318346.
-    - Code change; 
+    - Code change;
       The official name for language gl is now Galician, not Gallegan.
    - Code change: add "alt" for Southern Altai.
     - French translation update
@@ -3114,27 +3338,27 @@ Fri, 10 Mar 2006
   * iso_3166
    - Galician completed by Jacobo Tarrio.
   * iso_639
-    - Galician updated by Jacobo Tarrio.      
+    - Galician updated by Jacobo Tarrio.
     - Name of "Finnish" corrected in French
   * Build iso_639.tab from iso_639.xml to include corrections.
 
 0.44 Alastair McKinstry <mckinstry@debian.org>
 
   * iso_3166
-    - Tagalog by Eric Pareja. 
+    - Tagalog by Eric Pareja.
   * iso_639
     - French corrected by Christian Perrier
-    - 'Panjabi' changed to 'Punjabi' on translators advice; 
+    - 'Panjabi' changed to 'Punjabi' on translators advice;
   * iso_3166_2
-    - Corrections to sk by Jan Minar; space  corrections. 
+    - Corrections to sk by Jan Minar; space  corrections.
   * Correct autogen/autoconf code. Now builds .pot and Makefiles properly
     Thanks to Christian Persch.
 
  0.43 Alastair McKinstry <mckinstry@debian.org>
- 
+
   * iso_3166/Makefile: makefile dropped necessary argument for iso3166tab.py,
       which caused zero-byte iso_3166.tab files.
-      
+
 0.42 Alastair McKinstry <mckinstry@debian.org>
 
   * iso_3166
@@ -3168,7 +3392,7 @@ Fri, 10 Mar 2006
     - mk.po: Updated by Georgi Stanojevski
   * iso_639
     - Changed Spanish language name to remove "Castilian".
-      Thanks to Carlos Perelló Marín; 
+      Thanks to Carlos Perelló Marín;
     - Removed obsolete entries in PO files as they are likely to confuse
       gettext utilities because of duplicate entries
  * iso_3166_2
@@ -3178,10 +3402,10 @@ Fri, 10 Mar 2006
 
  * iso_3166
     - tk.po: New Turkmen translation from Kakilik Group.
-    - zh_TW.po : Updated Traditional Chinese translation. 
+    - zh_TW.po : Updated Traditional Chinese translation.
     - rename ven.po to ve.po.
     - ru.po updated by Nikolai Prokoschenko
-    - sq.po updated by Elian Myftiu. 
+    - sq.po updated by Elian Myftiu.
  * iso_3166_2
     - rename ven.po to ve.po
     - ru.po updated by Nikolai Prokoschenko
@@ -3234,7 +3458,7 @@ i * iso_639
    - hr.po: added by Christian Perrier.
    - sq.po: Updated by Elian Myftiu. Closes: #261697.
    - ro.po: updated by Eddy Petrişor.
-		   
+
 0.36 Alastair McKinstry <mckinstry@debian.org>
 
   * iso_3166
@@ -3393,7 +3617,7 @@ i * iso_639
 	    - all: Ooat-Vlaanderen -> Oost-Vlaanderen.
 	    - all: Corrected "Oulun Lasni" entry; bad chars removed.
 	    - all: regions in the Netherlands: Drente->Drenthe, Noord
-	      Holland->Noord-Holland, Noord Brabant->Noord-Brabant, 
+	      Holland->Noord-Holland, Noord Brabant->Noord-Brabant,
 	      Zuid Holland->Zuid-Holland, Vlaams Brabant -> Vlaams-Brabant.
 	* iso_3166_3:
 	    - lt.po: Updated by Kęstutis Biliūnas.
@@ -3427,13 +3651,13 @@ i * iso_639
 	* iso_3166/hu.po: Update by VEROK Istvan.
 	* iso_3166, iso_639/ja.po: Update by Kenshi Muto.
 	* iso_3166/fr.po: merge iso_3166 translations into iso_3166_1;
-	  iso_3166_2.tab:  complete and update regions for France. 
+	  iso_3166_2.tab:  complete and update regions for France.
 	  Added POT files for iso_3166, iso_639 and iso_4217 directories
           Not removed anymore when "make clean"
 	    - Christian Perrier
-	* iso_3166/cs.po, iso_3166/iso_3166_1/cs.po: Update by 
+	* iso_3166/cs.po, iso_3166/iso_3166_1/cs.po: Update by
 	  Miroslav Kure
-	* iso_3166/id.po: Update by Arief S Fitrianto.	
+	* iso_3166/id.po: Update by Arief S Fitrianto.
         * Javier Fernandez Sanguino-Pena
           - updated iso_3166/es.po
         * Konstantinos Margaritis
@@ -3447,12 +3671,12 @@ i * iso_639
           - updated iso_639/lt.po
         * Miguel Figueiredo
           - updated iso_3166/pt.po. Closes: #241330
-	
+
 0.28 Alastair McKinstry <mckinstry@computer.org>
 
 	* iso_639/fr.po: update (wrong case for dutch) by Christian Perrier.
 	* iso_3166/zh_CN.po: Update by Carlos Z.F. Liu
-	* iso_639: Add code for Classical Newari	
+	* iso_639: Add code for Classical Newari
 	* iso_3166/az.po: Update by  Mətin ?mirov
 	* iso_3166:
 	  - change TW to "Taiwan, Province of China".
@@ -3499,7 +3723,7 @@ i * iso_639
 	* ja.po: Japanese updates thanks to Kenshi Muto.
 
 0.24 Alastair McKinstry <mckinstry@computer.org>
-	
+
 	* iso_3166/sv.po: Fixed typo that broke build
 	* uk.po: Updated Ukranian thanks to Eugeniy Meshcheryakov.
 	* iso_3166/zh_CN.po: Updated by Carlos Z.F. Liu.
@@ -3512,7 +3736,7 @@ i * iso_639
 	* iso_3166/fr.po: Updated by Christian Perrier
 	* el.po: Updated Greek files from Konstantinos Margaritis.
 	* Removed superflous spaces and tabs in entries.
-	
+
 0.22 Alastair McKinstry <mckinstry@computer.org>
 
 	* iso_3166/zh_CN.po: New translation from Carlos Z.F. Liu.

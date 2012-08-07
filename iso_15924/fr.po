@@ -4,14 +4,14 @@
 #
 # Copyright (C)
 #   Tobias Quathamer <toddy@debian.org>, 2007.
-# Christian Perrier <bubulle@debian.org>, 2007, 2009, 2010, 2011.
+# Christian Perrier <bubulle@debian.org>, 2007, 2009, 2010, 2011, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: fr\n"
 "Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
 "debian.org>\n"
-"POT-Creation-Date: 2011-06-24 20:06+0200\n"
-"PO-Revision-Date: 2011-06-24 20:17+0200\n"
+"POT-Creation-Date: 2012-02-09 22:36+0100\n"
+"PO-Revision-Date: 2012-02-09 22:37+0100\n"
 "Last-Translator: Christian Perrier <bubulle@debian.org>\n"
 "Language-Team: French <debian-l10n-french@lists.debian.org>\n"
 "Language: \n"
@@ -216,6 +216,10 @@ msgstr "hébreu"
 #. name for Hira
 msgid "Hiragana"
 msgstr "hiragana"
+
+#. name for Hluw
+msgid "Anatolian Hieroglyphs (Luwian Hieroglyphs, Hittite Hieroglyphs)"
+msgstr "hiéroglyphes anatoliens (hiéroglyphes louvites, hiéroglyphes hittites)"
 
 #. name for Hmng
 msgid "Pahawh Hmong"
